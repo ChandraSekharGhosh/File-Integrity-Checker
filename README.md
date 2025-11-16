@@ -130,11 +130,11 @@ python file_integrity_checker.py --help
 
 🧩 Example Use Cases
 
-🔐 Detect unauthorized file modifications
-🖥️ Monitor sensitive configuration files
-📁 Track project file changes without Git
-🦠 Spot suspicious changes caused by malware
-📦 Verify file integrity during deployments
+🔐 Detect unauthorized file modifications<br>
+🖥️ Monitor sensitive configuration files<br>
+📁 Track project file changes without Git<br>
+🦠 Spot suspicious changes caused by malware<br>
+📦 Verify file integrity during deployments<br>
 
 🛠️ Future Enhancements (Optional)
 
