@@ -9,15 +9,15 @@ Perfect for developers, sysadmins, security analysts, and anyone who wants to ke
 
 🚀 Features
 
-✔️ Computes SHA-256 hash (secure & reliable)
-✔️ Works on any OS (Windows / Linux / macOS)
-✔️ Detects added, removed, and modified files
-✔️ Creates a baseline snapshot of file hashes
-✔️ Scans and compares current state with the baseline
-✔️ Continuous monitoring mode with alerts
-✔️ Exclude patterns (--exclude *.log)
-✔️ Zero external dependencies — pure Python
-✔️ JSON reporting support
+✔️ Computes SHA-256 hash (secure & reliable)<br>
+✔️ Works on any OS (Windows / Linux / macOS)<br>
+✔️ Detects added, removed, and modified files<br>
+✔️ Creates a baseline snapshot of file hashes<br>
+✔️ Scans and compares current state with the baseline<br>
+✔️ Continuous monitoring mode with alerts<br>
+✔️ Exclude patterns (--exclude *.log)<br>
+✔️ Zero external dependencies — pure Python<br>
+✔️ JSON reporting support<br>
 
 📦 Installation
 
