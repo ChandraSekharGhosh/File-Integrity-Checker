@@ -23,7 +23,7 @@ Perfect for developers, sysadmins, security analysts, and anyone who wants to ke
 
 Just download or clone the repository:
 
-git clone https://github.com/yourusername/file-integrity-checker.git
+git clone https://github.com/ChandraSekharGhosh/File-Integrity-Checker.git
 cd file-integrity-checker
 
 
