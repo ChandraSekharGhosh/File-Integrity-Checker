@@ -23,8 +23,8 @@ Perfect for developers, sysadmins, security analysts, and anyone who wants to ke
 
 Just download or clone the repository:
 
-git clone https://github.com/ChandraSekharGhosh/File-Integrity-Checker.git
-cd file-integrity-checker
+git clone https://github.com/ChandraSekharGhosh/File-Integrity-Checker.git<br>
+cd file-integrity-checker<br>
 
 
 Run using Python 3.8+:
