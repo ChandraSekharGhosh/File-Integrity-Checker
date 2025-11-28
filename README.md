@@ -1,5 +1,12 @@
 # File-Integrity-Checker
 
+Company: Codtech IT Solutions
+Name: Chandra Sekhar Ghosh
+Intern ID: CT04DR1779
+Domain: Cybersecury and Ethical Hacking
+Duration: 4 weeks
+Mentor: Muzammil
+
 🛡️ File Integrity Checker (Python)
 
 A lightweight, fast, and dependency-free File Integrity Checker built in Python using hashlib.
