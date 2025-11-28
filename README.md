@@ -1,11 +1,11 @@
 # File-Integrity-Checker
 
-Company: Codtech IT Solutions
-Name: Chandra Sekhar Ghosh
-Intern ID: CT04DR1779
-Domain: Cybersecury and Ethical Hacking
-Duration: 4 weeks
-Mentor: Muzammil
+Company: Codtech IT Solutions<br>
+Name: Chandra Sekhar Ghosh<br>
+Intern ID: CT04DR1779<br>
+Domain: Cybersecury and Ethical Hacking<br>
+Duration: 4 weeks<br>
+Mentor: Muzammil<br>
 
 🛡️ File Integrity Checker (Python)
 
