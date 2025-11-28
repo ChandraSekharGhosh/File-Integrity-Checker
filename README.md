@@ -3,7 +3,7 @@
 Company: Codtech IT Solutions<br>
 Name: Chandra Sekhar Ghosh<br>
 Intern ID: CT04DR1779<br>
-Domain: Cybersecury and Ethical Hacking<br>
+Domain: Cyber Security & Ethical Hacking<br>
 Duration: 4 weeks<br>
 Mentor: Muzammil<br>
 
